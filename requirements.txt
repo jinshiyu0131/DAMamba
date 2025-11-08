@@ -1,0 +1,17 @@
+ConfigArgParse==1.4.1
+torch==1.8.1
+torchvision==0.9.1
+torchaudio
+numpy
+scikit-learn
+scipy
+matplotlib
+seaborn
+pandas
+tqdm
+einops
+spectral
+networkx
+opencv-python
+pyyaml
+mamba-ssm
